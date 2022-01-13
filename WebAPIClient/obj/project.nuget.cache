@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QCgkhBu5TOaz4+j7ymG4621hweKJO1FVmsXY99aGLdnSS3e+H86yhZsNVIIkdkiLWo6CVCeZmLRljuxZ0pQDjg==",
+  "dgSpecHash": "fDHTjdg07kcDDU3YPC3yq7YYXFhzjk3hADwajAYsATPvt/6g7G5nkoUhFuQ/JOzvvcgrc5vCakvvqNeAquaPqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIClient\\WebAPIClient\\WebAPIClient.csproj",
+  "projectFilePath": "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIRequest\\WebAPIClient\\WebAPIClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

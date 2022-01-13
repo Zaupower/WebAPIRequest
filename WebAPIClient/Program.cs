@@ -13,7 +13,8 @@ namespace WebAPIClient
 
         static async Task Main(string[] args)
         {
-            //...
+            //REST requests with C#
+            await ProcessRepositories();
         }
 
         private static async Task ProcessRepositories()
@@ -24,7 +25,7 @@ namespace WebAPIClient
                  new MediaTypeWithQualityHeaderValue("application/vnd.github.v3+json"));
              client.DefaultRequestHeaders.Add("User-Agent", ".NET Foundation Repository Reporter");
 
-
+            
             var streamTask = client.GetStreamAsync("https://api.github.com/orgs/dotnet/repos");
             var repositories = await JsonSerializer.DeserializeAsync<List<Repository>>(await streamTask);
           //  var msg = await streamTask;

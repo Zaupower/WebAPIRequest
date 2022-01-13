@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIClient\\WebAPIClient\\WebAPIClient.csproj": {}
+    "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIRequest\\WebAPIClient\\WebAPIClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIClient\\WebAPIClient\\WebAPIClient.csproj": {
+    "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIRequest\\WebAPIClient\\WebAPIClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIClient\\WebAPIClient\\WebAPIClient.csproj",
+        "projectUniqueName": "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIRequest\\WebAPIClient\\WebAPIClient.csproj",
         "projectName": "WebAPIClient",
-        "projectPath": "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIClient\\WebAPIClient\\WebAPIClient.csproj",
+        "projectPath": "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIRequest\\WebAPIClient\\WebAPIClient.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIClient\\WebAPIClient\\obj\\",
+        "outputPath": "C:\\Users\\marce\\Desktop\\WebAPIClientCS\\WebAPIRequest\\WebAPIClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
